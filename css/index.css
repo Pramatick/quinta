@@ -1,0 +1,26 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background-color: #1540DF;
+
+}
+
+.uno {
+    height: 200px;
+    background-color: #2EF4C7;
+    stroke: blueviolet;
+}
+.dos {
+    height: 200px;
+    background-color: #1854B6;
+}
+.tres {
+    height: 200px;
+    background-color: rgb(9, 255, 0);
+}
+.caja1 {
+    height: 700px;
+    background-color: blanchedalmond;
+    border: 2px solid black
+}
